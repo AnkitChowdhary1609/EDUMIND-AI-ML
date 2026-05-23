@@ -68,9 +68,6 @@ ML/
 │
 └── README.md
 
-
-```bash
-
 ```
 # ⚙️ Complete Setup Guide
 
