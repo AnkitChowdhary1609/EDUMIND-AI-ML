@@ -56,6 +56,7 @@ The platform predicts student performance, analyzes academic risks, performs clu
 ML/
 │
 ├── app/
+|   ├── .env
 │   ├── app.py
 │   └── requirements.txt
 │
