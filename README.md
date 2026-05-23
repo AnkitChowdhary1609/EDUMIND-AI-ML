@@ -100,17 +100,10 @@ ML/
 │   │
 │   └── Student Mental health.csv
 │
-├── notebooks/
-│   │
-│   └── AI_Student_Analytics.ipynb
-│
-└── images/
+└── notebooks/
     │
-    ├── dashboard.png
-    ├── clustering.png
-    ├── feedback.png
-    ├── ai_insights.png
-    └── study_coach.png
+    └── AI_Student_Analytics.ipynb
+
 ```
 
 ---
@@ -291,62 +284,6 @@ After running the app:
 ```bash
 Local URL: http://localhost:8501
 Network URL: http://172.xx.xx.xx:8501
-```
-
----
-
-# ☁️ Streamlit Cloud Deployment
-
-## 1️⃣ Push Project To GitHub
-
-```bash
-git add .
-git commit -m "Initial Commit"
-git push
-```
-
----
-
-## 2️⃣ Open Streamlit Cloud
-
-https://streamlit.io/cloud
-
----
-
-## 3️⃣ Connect GitHub Repository
-
-* Select your repository
-* Choose branch
-* Select main file:
-
-```bash
-app/app.py
-```
-
----
-
-## 4️⃣ Add Streamlit Secrets
-
-In Streamlit Dashboard:
-
-```text
-Settings → Secrets
-```
-
-Add:
-
-```toml
-GOOGLE_API_KEY="your_api_key_here"
-```
-
----
-
-## 5️⃣ Deploy Application
-
-Click:
-
-```text
-Deploy
 ```
 
 ---
