@@ -1,4 +1,4 @@
-# 📐 DECISIONS.md — Engineering Design Log
+# 📐Engineering Design Log
 
 **Candidate:** Ankit Chowdhary  
 **Track:** Part 2 — The Premium Home Page  
