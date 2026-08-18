@@ -75,7 +75,7 @@ The Risk Analytics system predicts students who are academically at risk using M
 - Failure probability analysis
 - Risk categorization
 
-### Risk Levels
+### Risk Level
 - Low Risk
 - Medium Risk
 - High Risk
